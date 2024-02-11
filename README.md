@@ -28,7 +28,7 @@ Follow these instructions to get the project up and running on your local machin
 
 Make sure you have Node.js and npm installed on your machine.
 
-- Node.js: [Download](https://nodejs.org/)
+- Node.js: 
 - npm (comes with Node.js installation)
 
 ### Installation
