@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the result of 5 + 7?",
+    "answers": ["10", "12", "14", "16"],
+    "correct": "12",
+    "questionId": "1"
+  },
+  {
+    "question": "Subtract 9 from 15.",
+    "answers": ["4", "6", "8", "12"],
+    "correct": "6",
+    "questionId": "2"
+  },
+  {
+    "question": "Multiply 3 by 5.",
+    "answers": ["8", "12", "15", "20"],
+    "correct": "15",
+    "questionId": "3"
+  },
+  {
+    "question": "Divide 20 by 4.",
+    "answers": ["2", "4", "5", "8"],
+    "correct": "5",
+    "questionId": "4"
+  },
+  {
+    "question": "Calculate the square of 9.",
+    "answers": ["18", "27", "64", "81"],
+    "correct": "81",
+    "questionId": "5"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "answers": ["6", "8", "12", "16"],
+    "correct": "8",
+    "questionId": "6"
+  },
+  {
+    "question": "Add 15 to 23.",
+    "answers": ["28", "38", "42", "48"],
+    "correct": "38",
+    "questionId": "7"
+  },
+  {
+    "question": "Subtract 5 from 14.",
+    "answers": ["7", "9", "11", "15"],
+    "correct": "9",
+    "questionId": "8"
+  },
+  {
+    "question": "Multiply 7 by 6.",
+    "answers": ["36", "42", "48", "56"],
+    "correct": "42",
+    "questionId": "9"
+  },
+  {
+    "question": "Divide 36 by 9.",
+    "answers": ["2", "3", "4", "5"],
+    "correct": "4",
+    "questionId": "10"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "answers": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+    "correct": "Delhi",
+    "questionId": "1"
+  },
+  {
+    "question": "What is the capital of France?",
+    "answers": ["Berlin", "Paris", "Mumbai", "Chennai"],
+    "correct": "Paris",
+    "questionId": "2"
+  },
+  {
+    "question": "What is the capital of Germany?",
+    "answers": ["Berlin", "Paris", "Mumbai", "Chennai"],
+    "correct": "Berlin",
+    "questionId": "3"
+  },
+  {
+    "question": "What is the capital of USA?",
+    "answers": ["Washington", "Paris", "Mumbai", "Chennai"],
+    "correct": "Washington",
+    "questionId": "4"
+  },
+  {
+    "question": "What is the capital of UK?",
+    "answers": ["London", "Paris", "Mumbai", "Chennai"],
+    "correct": "London",
+    "questionId": "5"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "answers": ["Canberra", "Paris", "Mumbai", "Chennai"],
+    "correct": "Canberra",
+    "questionId": "6"
+  },
+  {
+    "question": "What is the capital of China?",
+    "answers": ["Beijing", "Paris", "Mumbai", "Chennai"],
+    "correct": "Beijing",
+    "questionId": "7"
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answers": ["Tokyo", "Paris", "Mumbai", "Chennai"],
+    "correct": "Tokyo",
+    "questionId": "8"
+  },
+  {
+    "question": "What is the capital of Russia?",
+    "answers": ["Moscow", "Paris", "Mumbai", "Chennai"],
+    "correct": "Moscow",
+    "questionId": "9"
+  },
+  {
+    "question": "What is the capital of Brazil?",
+    "answers": ["Paris", "Mumbai", "Chennai", "Brasilia"],
+    "correct": "Brasilia",
+    "questionId": "10"
+  }
+]

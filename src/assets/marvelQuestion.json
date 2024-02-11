@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Who is the protagonist in the movie 'Iron Man'?",
+    "answers": ["Thor", "Black Widow", "Captain America", "Tony Stark"],
+    "correct": "Tony Stark",
+    "questionId": "1"
+  },
+  {
+    "question": "What is the name of Thor's enchanted hammer?",
+    "answers": ["Mjolnir", "Stormbreaker", "Excalibur", "Nidavellir"],
+    "correct": "Mjolnir",
+    "questionId": "2"
+  },
+  {
+    "question": "Which infinity stone does Vision possess in 'Avengers: Infinity War'?",
+    "answers": ["Mind Stone", "Reality Stone", "Power Stone", "Space Stone"],
+    "correct": "Mind Stone",
+    "questionId": "3"
+  },
+  {
+    "question": "Who is the main antagonist in 'Black Panther'?",
+    "answers": ["Killmonger", "Thanos", "Loki", "Ultron"],
+    "correct": "Killmonger",
+    "questionId": "4"
+  },
+  {
+    "question": "What is the real name of the superhero 'Black Widow'?",
+    "answers": [
+      "Natasha Romanoff",
+      "Wanda Maximoff",
+      "Carol Danvers",
+      "Jessica Jones"
+    ],
+    "correct": "Natasha Romanoff",
+    "questionId": "5"
+  },
+  {
+    "question": "In 'Guardians of the Galaxy', what is the name of Star-Lord's ship?",
+    "answers": ["Millennium Falcon", "Quinjet", "Slave I", "Milano"],
+    "correct": "Milano",
+    "questionId": "6"
+  },
+  {
+    "question": "Which character says 'I am Groot' in 'Guardians of the Galaxy'?",
+    "answers": ["Rocket", "Drax", "Groot", "Star-Lord"],
+    "correct": "Groot",
+    "questionId": "7"
+  },
+  {
+    "question": "Who is the director of 'The Avengers'?",
+    "answers": [
+      "Christopher Nolan",
+      "Joss Whedon",
+      "James Cameron",
+      "Steven Spielberg"
+    ],
+    "correct": "Joss Whedon",
+    "questionId": "8"
+  },
+  {
+    "question": "What is the name of the villain in 'Ant-Man'?",
+    "answers": ["Yellowjacket", "Red Skull", "Ghost", "The Vulture"],
+    "correct": "Yellowjacket",
+    "questionId": "9"
+  },
+  {
+    "question": "In 'Doctor Strange', what mystical artifact does Doctor Strange use?",
+    "answers": [
+      "Eye of Agamotto",
+      "Soul Stone",
+      "Cloak of Levitation",
+      "Book of Vishanti"
+    ],
+    "correct": "Eye of Agamotto",
+    "questionId": "10"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "answers": [
+      "Hyper Text Markup Language",
+      "Hyperlinks and Text Markup Language",
+      "Home Tool Markup Language"
+    ],
+    "questionID": 1,
+    "correct": "Hyper Text Markup Language"
+  },
+  {
+    "questionID": 2,
+    "question": "Who is making the Web standards?",
+    "answers": [
+      "Google",
+      "Mozilla",
+      "The World Wide Web Consortium",
+      "Microsoft"
+    ],
+    "correct": "The World Wide Web Consortium"
+  },
+  {
+    "questionID": 3,
+    "question": "Choose the correct HTML element for the largest heading:",
+    "answers": ["<h6>", "<head>", "<heading>", "<h1>"],
+    "correct": "<h1>"
+  },
+  {
+    "questionID": 4,
+    "question": "What is the correct HTML element for inserting a line break?",
+    "answers": ["<br>", "<break>", "<lb>"],
+    "correct": "<br>"
+  },
+  {
+    "questionID": 5,
+    "question": "What is the correct HTML for adding a background color?",
+    "answers": [
+      "<body style=\"background-color:yellow;\">",
+      "<body bg=\"yellow\">",
+      "<background>yellow</background>"
+    ],
+    "correct": "<body style=\"background-color:yellow;\">"
+  },
+  {
+    "questionID": 6,
+    "question": "Choose the correct HTML element to define important text",
+    "answers": ["<strong>", "<b>", "<important>"],
+    "correct": "<strong>"
+  },
+  {
+    "questionID": 7,
+    "question": "Choose the correct HTML element to define emphasized text",
+    "answers": ["<i>", "<em>", "<italic>"],
+    "correct": "<em>"
+  },
+  {
+    "questionID": 8,
+    "question": "Which character is used to indicate an end tag?",
+    "answers": ["*", "<", "/", "^"],
+    "correct": "/"
+  },
+  {
+    "questionID": 9,
+    "question": "How can you open a link in a new tab/browser window?",
+    "answers": [
+      "<a href=\"url\" target=\"_blank\">",
+      "<a href=\"url\" new>",
+      "<a href=\"url\" target=\"new\">"
+    ],
+    "correct": "<a href=\"url\" target=\"_blank\">"
+  },
+  {
+    "questionID": 10,
+    "question": "Which of these elements are all <table> elements?",
+    "answers": ["<table><tr><td>", "<table><head><tfoot>", "<thead><body><tr>"],
+    "correct": "<table><tr><td>"
+  }
+]

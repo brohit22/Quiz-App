@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Which country won the FIFA World Cup in 2018?",
+    "answers": ["Brazil", "Germany", "France", "Spain"],
+    "correct": "France",
+    "questionId": "1"
+  },
+  {
+    "question": "Who holds the record for the most Grand Slam singles titles in tennis?",
+    "answers": [
+      "Rafael Nadal",
+      "Novak Djokovic",
+      "Serena Williams",
+      "Roger Federer"
+    ],
+    "correct": "Serena Williams",
+    "questionId": "2"
+  },
+  {
+    "question": "Which sport is associated with Wimbledon?",
+    "answers": ["Golf", "Tennis", "Cricket", "Soccer"],
+    "correct": "Tennis",
+    "questionId": "3"
+  },
+  {
+    "question": "In which year did Usain Bolt set the world record for the 100m sprint?",
+    "answers": ["2008", "2012", "2016", "2020"],
+    "correct": "2009",
+    "questionId": "4"
+  },
+  {
+    "question": "Who is often called 'The Great One' in ice hockey?",
+    "answers": [
+      "Mario Lemieux",
+      "Wayne Gretzky",
+      "Sidney Crosby",
+      "Alexander Ovechkin"
+    ],
+    "correct": "Wayne Gretzky",
+    "questionId": "5"
+  },
+  {
+    "question": "Which country hosted the 2016 Summer Olympics?",
+    "answers": ["United States", "China", "Brazil", "Russia"],
+    "correct": "Brazil",
+    "questionId": "6"
+  },
+  {
+    "question": "Who won the NBA Finals in 2021?",
+    "answers": [
+      "Los Angeles Lakers",
+      "Miami Heat",
+      "Golden State Warriors",
+      "Milwaukee Bucks"
+    ],
+    "correct": "Milwaukee Bucks",
+    "questionId": "7"
+  },
+  {
+    "question": "In golf, what is the term for a score of one stroke under par on a hole?",
+    "answers": ["Birdie", "Eagle", "Bogey", "Par"],
+    "correct": "Birdie",
+    "questionId": "8"
+  },
+  {
+    "question": "Which country won the 2019 Cricket World Cup?",
+    "answers": ["Australia", "India", "England", "New Zealand"],
+    "correct": "England",
+    "questionId": "9"
+  },
+  {
+    "question": "Who is considered the 'G.O.A.T.' (Greatest of All Time) in basketball?",
+    "answers": [
+      "Kobe Bryant",
+      "Michael Jordan",
+      "LeBron James",
+      "Magic Johnson"
+    ],
+    "correct": "Michael Jordan",
+    "questionId": "10"
+  }
+]
